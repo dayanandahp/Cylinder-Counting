@@ -1,5 +1,5 @@
 
-# 🚛 Cylinder Counting from Moving Truck (Top-View)
+# Cylinder Counting from Moving Truck (Top-View)
 
 ## Problem Statement
 In industrial logistics, accurately counting gas cylinders loaded on moving trucks is critical
